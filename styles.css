@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 .container>h1 {
@@ -171,7 +172,7 @@ img {
     display: none;
     z-index: 100;
     /* animation: moveUp 1s ease-in-out; */
-    background-color: rgba(0, 0, 0, 0.6);
+/*     background-color: rgba(0, 0, 0, 0.6); */
 
 
 
